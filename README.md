@@ -8,7 +8,7 @@ You take a look after CHAOS challange : https://chaos.grand-challenge.org/
 # 2nd step 
 If you want to participate, please :
 - Add your photo here : Authors 
-- Create your own folder for your solutions
+- Create your own folder for your solutions here Developpement
 - Download data (src + GT) from  DATA
                 or       https://www.dropbox.com/home/MR-dataset/MR-dataset
                 or       https://www.dropbox.com/scl/fo/9rm3h1yiksmdug966hr6o/h?dl=0&rlkey=4zowhp1ggu9mjtndv2c8v7ttc
